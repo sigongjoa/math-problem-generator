@@ -1,0 +1,5 @@
+{
+  "name": "AI Math Problem Generator",
+  "description": "An application that automatically generates Korean college entrance exam (CSAT) style math problems using the Gemini API. Users can generate new sets of multiple-choice questions with a single click.",
+  "requestFramePermissions": []
+}
